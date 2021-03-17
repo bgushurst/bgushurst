@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bgushurst
+- 👀 I’m interested in web application and game development
+- 🌱 I’m currently learning Unreal Engine 4 multiplayer networking
+- 💞️ I’m looking to collaborate on UE4 multiplayer game projects
+- 📫 You can reach me at bradgushurst@[google mail service].com
