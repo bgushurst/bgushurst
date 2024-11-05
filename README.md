@@ -1,6 +1,6 @@
 # Hi, I’m Brad Gushurst 👋
 
-I'm a software developer/DevOps engineer based in California.
+I'm a software developer/DevOps engineer based in Michigan.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
